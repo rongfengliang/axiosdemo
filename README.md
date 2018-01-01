@@ -10,5 +10,5 @@ yarn
 ### start
 ```js
 live-server
-node app.js
+node app.js  or yarn start
 ```
